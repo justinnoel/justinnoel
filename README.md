@@ -6,4 +6,4 @@
   - [Blog](https://justinnoel.dev/)
 
 ## Why is My Contribution History So ... Empty??
-- I've done most of my open source and private work as [Calendee - Github](https://github.com/calendee). I'm just now beginning to use this new GitHub account.
+- I've done most of my open source and private work as [Calendee on Github](https://github.com/calendee). I'm just now beginning to use this new GitHub account.
