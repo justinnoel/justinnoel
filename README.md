@@ -1,6 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @justinnoel
-- 📱 (Mobile) app developer focused on the front-end but full stack capable: React Native • Ionic Framework • React
+- 📱 (Mobile) app developer focused on the front-end but full stack capable:
+  - React Native • Ionic Framework • React • Cloudflare • Supabase • Firebase
 - 📫 How to reach me
   - [Twitter @JustinNoelDev](https://twitter.com/JustinNoelDev)
   - [Blog](https://justinnoel.dev/)
